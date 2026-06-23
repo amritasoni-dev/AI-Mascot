@@ -3,9 +3,11 @@
 A cute AI-inspired robot mascot built using **HTML & CSS**.  
 Airi is designed with glowing effects, animations, and a futuristic interface to bring a simple robot character to life.
 
-## Meet Airi
+## 📸 Preview
 
-![Airi Robot Preview](Airi.png)
+🎥 Airi Robot Demo
+
+<video src="Airi%20vdo.mp4" controls></video>
 
 ## ✨ Features
 
