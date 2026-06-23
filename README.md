@@ -6,6 +6,10 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 ## 📸 Preview
 
 [🎥 Watch Airi Robot Demo](Airi.gif)
+
+##  Meet Airi 
+
+![Airi](Airi.png)
 ## ✨ Features
 
 - 🤖 Custom AI robot mascot design
