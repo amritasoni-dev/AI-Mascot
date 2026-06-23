@@ -47,8 +47,6 @@ This project was created to practice:
 - Bringing ideas to life with code
 
 ## 👨‍💻 Author
-Amrita Soni
-Incoming CS-AI Student
 
-**Your Name**  
+Amrita Soni 
 Upcoming CS-AI Student 🚀
