@@ -9,6 +9,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 
 ## Meet Airi
 
+![Airi Robot Preview](Airi.png)
 
 ## ✨ Features
 
