@@ -35,7 +35,7 @@ git clone  https://amritasoni-dev.github.io/AI-Mascot/robo.html
 
 2. Open the project folder
 
-3. Open `robo.html` in your browser
+3. Open `index.html` in your browser
 
 ## 🎯 Purpose
 
