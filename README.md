@@ -7,7 +7,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 
 🎥 Airi Robot Demo
 
-<video src="Airi%20vdo.mp4" controls></video>
+<video src="Airi vdo.mp4" controls></video>
 
 ## ✨ Features
 
