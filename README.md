@@ -5,7 +5,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 
 ## 🚀 Live Demo
 
-🔗 [View Airi Live Demo](YOUR_LIVE_DEMO_LINK)
+🔗 [View Airi Live Demo](https://amritasoni-dev.github.io/AI-Mascot/)
 
 ## Meet Airi
 
@@ -31,7 +31,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone  https://amritasoni-dev.github.io/AI-Mascot/
 ```
 
 2. Open the project folder
@@ -47,6 +47,8 @@ This project was created to practice:
 - Bringing ideas to life with code
 
 ## 👨‍💻 Author
+Amrita Soni
+Incoming CS-AI Student
 
 **Your Name**  
 Upcoming CS-AI Student 🚀
