@@ -3,10 +3,6 @@
 A cute AI-inspired robot mascot built using **HTML & CSS**.  
 Airi is designed with glowing effects, animations, and a futuristic interface to bring a simple robot character to life.
 
-## 🚀 Live Demo
-
-🔗 [View Airi Live Demo](https://amritasoni-dev.github.io/AI-Mascot/robo.html)
-
 ## Meet Airi
 
 ![Airi Robot Preview](Airi.png)
@@ -31,7 +27,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 1. Clone the repository
 
 ```bash
-git clone  https://amritasoni-dev.github.io/AI-Mascot/
+git clone  https://amritasoni-dev.github.io/AI-Mascot/robo.html
 ```
 
 2. Open the project folder
