@@ -5,7 +5,7 @@ Airi is designed with glowing effects, animations, and a futuristic interface to
 
 ## 🚀 Live Demo
 
-🔗 [View Airi Live Demo](https://amritasoni-dev.github.io/AI-Mascot/)
+🔗 [View Airi Live Demo](https://amritasoni-dev.github.io/AI-Mascot/robo.html)
 
 ## Meet Airi
 
